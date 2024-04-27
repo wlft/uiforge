@@ -6551,6 +6551,159 @@ return {
     
                             id = 17263860388;
                         };
+
+                        {
+                            name = "Offline Bolt";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263861828;
+                        };
+
+                        {
+                            name = "Offline Pin";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263863269;
+                        };
+
+                        {
+                            name = "Offline Pin Off";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263864121;
+                        };
+
+                        {
+                            name = "On Device Training";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263865292;
+                        };
+
+                        {
+                            name = "Online Predictions";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263866430;
+                        };
+
+                        {
+                            name = "Open In Browser";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263867624;
+                        };
+
+                        {
+                            name = "Outbound";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263868811;
+                        };
+
+                        {
+                            name = "Pageview";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263870347;
+                        };
+
+                        {
+                            name = "Pan Tool Alt";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263873687;
+                        };
+
+                        {
+                            name = "Pan Tool";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263874919;
+                        };
+
+                        {
+                            name = "Pan Zoom";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263876825;
+                        };
+
+                        {
+                            name = "Pending";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263889329;
+                        };
+
+                        {
+                            name = "Perm Contact Calendar";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263890434;
+                        };
+
+                        {
+                            name = "Person Add Disabled";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263891791;
+                        };
+
+                        {
+                            name = "Person Edit";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263895376;
+                        };
+
+                        {
+                            name = "Pin End";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263896720;
+                        };
+
+                        {
+                            name = "Pin Invoke";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263901488;
+                        };
 					}
                 }
 			}
