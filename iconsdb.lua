@@ -6704,6 +6704,708 @@ return {
     
                             id = 17263901488;
                         };
+
+                        {
+                            name = "Pinch Zoom In";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263902894;
+                        };
+
+                        {
+                            name = "Pinch Zoom Out";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263904841;
+                        };
+
+                        {
+                            name = "Polymer";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263906067;
+                        };
+
+                        {
+                            name = "Preview";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263908252;
+                        };
+
+                        {
+                            name = "Preview Off";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263911998;
+                        };
+
+                        {
+                            name = "Priority";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263913340;
+                        };
+
+                        {
+                            name = "Priority High";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263917130;
+                        };
+
+                        {
+                            name = "Problem";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263919257;
+                        };
+
+                        {
+                            name = "Published With Changes";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263929577;
+                        };
+
+                        {
+                            name = "Question Mark";
+                            keywords = {"?"};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263931094;
+                        };
+
+                        {
+                            name = "Rate Review";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263932767;
+                        };
+
+                        {
+                            name = "Record Voice Over";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263937567;
+                        };
+
+                        {
+                            name = "Release Alert";
+                            keywords = {"new"};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263939169;
+                        };
+
+                        {
+                            name = "Reminder";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263947006;
+                        };
+
+                        {
+                            name = "Rounded Corner";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263948212;
+                        };
+
+                        {
+                            name = "RSVP";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263950254;
+                        };
+
+                        {
+                            name = "Rule";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263951670;
+                        };
+
+                        {
+                            name = "Running With Errors";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263954166;
+                        };
+
+                        {
+                            name = "Save As";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263955642;
+                        };
+
+                        {
+                            name = "Schedule";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263966789;
+                        };
+
+                        {
+                            name = "Scrollable Header";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263967946;
+                        };
+
+                        {
+                            name = "SDK";
+                            keywords = {"dev"};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263984786;
+                        };
+
+                        {
+                            name = "Select Hands Free";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263989897;
+                        };
+
+                        {
+                            name = "Select Window 2";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17263991100;
+                        };
+
+                        {
+                            name = "Select Window";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17264001722;
+                        };
+
+                        {
+                            name = "Select Window Off";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17264003473;
+                        };
+
+                        {
+                            name = "Settings Account Box";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17264004970;
+                        };
+
+                        {
+                            name = "Settings Overscan";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17264006828;
+                        };
+
+                        {
+                            name = "Settings Power";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17264008078; --idbroken
+                        };
+
+                        {
+                            name = "Shadow Add";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270874662;
+                        };
+
+                        {
+                            name = "Shadow";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270875449;
+                        };
+
+                        {
+                            name = "Shadow Minus";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270876477;
+                        };
+
+                        {
+                            name = "Shift";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270877258;
+                        };
+
+                        {
+                            name = "Shift Lock";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270878778;
+                        };
+
+                        {
+                            name = "Snooze";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270879618;
+                        };
+
+                        {
+                            name = "Square Foot";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270880386;
+                        };
+
+                        {
+                            name = "Stars";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270881273;
+                        };
+
+                        {
+                            name = "Supervised User Circle";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270882171;
+                        };
+
+                        {
+                            name = "Supervised User Circle Off";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270883123;
+                        };
+
+                        {
+                            name = "Supervised Account";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270883831;
+                        };
+
+                        {
+                            name = "Support";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270884526;
+                        };
+
+                        {
+                            name = "Swipe";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270885480;
+                        };
+
+                        {
+                            name = "Tab";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270887026;
+                        };
+
+                        {
+                            name = "Tab Unselected";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270889369;
+                        };
+
+                        {
+                            name = "Target";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270890704;
+                        };
+
+                        {
+                            name = "Task Alt";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270891593;
+                        };
+
+                        {
+                            name = "Time Auto";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270892592;
+                        };
+
+                        {
+                            name = "Time 3 Alt 1";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270893434;
+                        };
+
+                        {
+                            name = "Time 10 Alt 1";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270894123;
+                        };
+
+                        {
+                            name = "Timer Pause";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270894973;
+                        };
+
+                        {
+                            name = "Timer Play";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270896257;
+                        };
+
+                        {
+                            name = "Today";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270897620;
+                        };
+
+                        {
+                            name = "Touch App";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270898334;
+                        };
+
+                        {
+                            name = "Trackpad Input";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270899040;
+                        };
+
+                        {
+                            name = "Translate";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270901278;
+                        };
+
+                        {
+                            name = "Unlicense";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270902081;
+                        };
+
+                        {
+                            name = "Unpublished";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270902946;
+                        };
+
+                        {
+                            name = "Update Disabled";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270904408;
+                        };
+
+                        {
+                            name = "Update";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270905242;
+                        };
+
+                        {
+                            name = "Upgrade";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270906413;
+                        };
+
+                        {
+                            name = "Upload File";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270907392;
+                        };
+
+                        {
+                            name = "User Attributes";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270908241;
+                        };
+
+                        {
+                            name = "Verified";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270910689;
+                        };
+
+                        {
+                            name = "Visibility";
+                            keywords = {"spectate"};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270911731;
+                        };
+
+                        {
+                            name = "Visibility Lock";
+                            keywords = {"spectate"};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270912205;
+                        };
+
+                        {
+                            name = "Visibility Off";
+                            keywords = {"spectate"};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270912900;
+                        };
+
+                        {
+                            name = "Voice Over Off";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270913756;
+                        };
+
+                        {
+                            name = "Warning";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270914320;
+                        };
+
+                        {
+                            name = "Warning Off";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270914982;
+                        };
+
+                        {
+                            name = "Watch Screentime";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270915822;
+                        };
+
+                        {
+                            name = "Water Lock";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270916713;
+                        };
+
+                        {
+                            name = "Web Asset";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270917809;
+                        };
+
+                        {
+                            name = "Web Asset Off";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270918608;
+                        };
+
+                        {
+                            name = "Web";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270919107;
+                        };
+
+                        {
+                            name = "Web Traffic";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270919752;
+                        };
+
+                        {
+                            name = "Webhook";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270921209;
+                        };
+
+                        {
+                            name = "Wifi Protected Setup";
+                            keywords = {};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270921993;
+                        };
+
+                        {
+                            name = "Wysiwyg";
+                            keywords = {"what you see is what you get","editor"};
+                            groups = {};
+                            overall = "common_actions";
+    
+                            id = 17270922678;
+                        };
 					}
                 }
 			}
