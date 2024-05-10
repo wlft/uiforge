@@ -1,7 +1,8 @@
 -- !! some icons are missing (due to an oversight) in GoogleFontsIcons/4.0.0/fill/1024 in 'activities' and 'android'
--- certain icons from some packs have been omitted due to questionable suitability for Roblox
+-- certain icons from some packs have been omitted due to their suitability for use on Roblox
 
 return {
+    -- all icons are to be used in the Roblox engine and therefore require bleeding pixels, use chipng (https://rbxxaxa.github.io/chipng/) for this
 	icons = {
 		material_symbols = {
 			["4.0.0"] = {
@@ -11,13 +12,13 @@ return {
 						-- activities [A-Z]
 						
 						{
-							name = "Air"; -- Name Of The Icon (all words capitalized)
+							name = "Air"; -- Name Of The Icon (first letter of all words capitalized)
 							keywords = {"wind"}; -- keywords/alt spelling
 							groups = {"elements"}; -- groups defined at the bottom of the file
-							overall = "activities"; -- the overall_sort
+							overall = "activities"; -- the overall_sort (defined below groups)
 
-							id = 17188215399; -- the Asset Id
-							display = "http://www.roblox.com/asset/?id=17188215365"; -- Image ID / URI (deprecated)
+							id = 17188215399; -- the Asset ID (the "Copy Asset ID" of an image on the dashboard)
+							display = "http://www.roblox.com/asset/?id=17188215365"; -- Image ID / URI (deprecated; do not add this variable)
 						};
 						
 						{
@@ -7406,6 +7407,19 @@ return {
     
                             id = 17270922678;
                         };
+
+
+
+
+
+
+                        -- communication
+
+
+
+
+
+
 					}
                 }
 			}
