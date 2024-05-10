@@ -19,7 +19,8 @@
     "tabs": [
         {
             "title": "Icons",
-            "img": 0
+            "img": 17281186109,
+            "frame_id": "icons"
         },
 
         {
@@ -29,13 +30,15 @@
 
         {
             "title": "Backgrounds",
-            "img": 0
+            "img": 17336480181,
+            "frame_id": "bg"
         },
 
         {
             "title": "Templates",
-            "img": 0,
-            "s_tags": ["beta"]
+            "img": 17336496253,
+            "s_tags": ["beta"],
+            "frame_id": "templates"
         },
 
         {
@@ -45,33 +48,60 @@
 
         {
             "title": "Your Presets",
-            "img": 0
+            "img": 17270919107,
+            "frame_id": "presets"
         },
 
         {
             "title": "Palettes",
-            "img": 0
+            "img": 17336232368,
+            "frame_id": "palettes"
         },
 
         {
             "title": "Adaptive Scaling",
-            "img": 0
+            "img": 17336231206,
+            "frame_id": "adaptive_scaling"
         },
 
         {
             "title": "Preview",
-            "img": 0,
-            "s_tags": ["soon"]
+            "img": 17336446076,
+            "s_tags": ["soon"],
+            "frame_id": "preview"
         },
 
         {
             "title": "Animate",
-            "img": 0
+            "img": 17443602000,
+            "frame_id": "animate"
         },
 
         {
             "title": "Saved Images",
+            "img": 17336480181,
+            "frame_id": "saves"
+        }
+    ],
+
+    "b_tabs": [
+        {
+            "title": "Wolfite",
             "img": 0
+        },
+        {
+            "title": "__divider",
+            "img": 0
+        },
+        {
+            "title": "Settings",
+            "img": 0,
+            "frame_id": "settings"
+        },
+        {
+            "title": "Copyright",
+            "img": 0,
+            "frame_id": "copr"
         }
     ],
 
@@ -81,11 +111,13 @@
             "name": "Material Symbols",
             "id": "material_symbols/4.x.x",
             "layout": 1,
-            "img": 0,
+            "img": 17281186109,
             "hidden": false,
             "db_index": "material_symbols/4.0.0",
             "search_compatible": true,
+            "default": true,
 
+            "cats": ["activities","android","audio/video","brands","business/payments","common_actions","communication","hardware","home","household","maps","photo/image","privacy/security","social","text_formatting","transportation","travel","ui_actions"],
             "filters": {
                 "fill": {
                     "type": "boolean",
@@ -98,7 +130,7 @@
             "name": "MUI",
             "id": "mui_icons/1",
             "layout": 2,
-            "img": 0,
+            "img": 17281244307,
             "hidden": false,
             "db_index": "mui_icons/1",
             "search_compatible": true,
@@ -111,9 +143,10 @@
             "name": "Fluent 2",
             "id": "fluent/2",
             "layout": 3,
-            "img": 0,
+            "img": 17299351803,
             "hidden": false,
             "db_index": "fluent/2",
+            "search_compatible": true,
 
             "filters": {
                 "sizes":["1024"]
@@ -123,9 +156,10 @@
             "name": "Bootstrap",
             "id": "bootstrap/1.x.x",
             "layout": 4,
-            "img": 0,
+            "img": 17281269880,
             "hidden": false,
             "db_index": "bootstrap/1.x.x",
+            "search_compatible": true,
 
             "filters": {
                 "sizes":["1024"]
@@ -137,12 +171,19 @@
             "layout": 5,
             "img": 0,
             "hidden": true,
+            "search_compatible": false,
 
             "filters": {
-                "sizes":["1024"]
+                "sizes":[]
             }
         }
     ],
+
+    "licenses": {
+        "uiforge_licenses": {
+            "eula": "By using UIForge you agree to the data collection and practises utilised by Google Analytics."
+        }
+    },
 
     "def": {
         "s_tags": {
@@ -153,6 +194,11 @@
 
             "beta": {
                 "label": "BETA",
+                "img": 0
+            },
+
+            "preview": {
+                "label": "PREVIEW",
                 "img": 0
             }
         }
