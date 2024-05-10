@@ -1,0 +1,160 @@
+{
+    "plugin": {
+        "name": "UIForge",
+        "initialism": "UIF",
+        "edition": "IN-DEV",
+        "version": {
+            "current": "1.0.1",
+            "prev": "1.0.0",
+            "force_up_to_date_before": "1.0.1"
+        },
+        "publisher": {
+            "name": "Wolfite",
+            "copr": "© 2024 Wolfite",
+            "id":655331725,
+            "type":"user"
+        }
+    },
+
+    "tabs": [
+        {
+            "title": "Icons",
+            "img": 0
+        },
+
+        {
+            "title": "__divider",
+            "img": 0
+        },
+
+        {
+            "title": "Backgrounds",
+            "img": 0
+        },
+
+        {
+            "title": "Templates",
+            "img": 0,
+            "s_tags": ["beta"]
+        },
+
+        {
+            "title": "__divider",
+            "img": 0
+        },
+
+        {
+            "title": "Your Presets",
+            "img": 0
+        },
+
+        {
+            "title": "Palettes",
+            "img": 0
+        },
+
+        {
+            "title": "Adaptive Scaling",
+            "img": 0
+        },
+
+        {
+            "title": "Preview",
+            "img": 0,
+            "s_tags": ["soon"]
+        },
+
+        {
+            "title": "Animate",
+            "img": 0
+        },
+
+        {
+            "title": "Saved Images",
+            "img": 0
+        }
+    ],
+
+
+    "icon_collections": [
+        {
+            "name": "Material Symbols",
+            "id": "material_symbols/4.x.x",
+            "layout": 1,
+            "img": 0,
+            "hidden": false,
+            "db_index": "material_symbols/4.0.0",
+            "search_compatible": true,
+
+            "filters": {
+                "fill": {
+                    "type": "boolean",
+                    "db_index": "fill:unfill"
+                },
+                "sizes":["1024"]
+            }
+        },
+        {
+            "name": "MUI",
+            "id": "mui_icons/1",
+            "layout": 2,
+            "img": 0,
+            "hidden": false,
+            "db_index": "mui_icons/1",
+            "search_compatible": true,
+
+            "filters": {
+                "sizes":["1024"]
+            }
+        },
+        {
+            "name": "Fluent 2",
+            "id": "fluent/2",
+            "layout": 3,
+            "img": 0,
+            "hidden": false,
+            "db_index": "fluent/2",
+
+            "filters": {
+                "sizes":["1024"]
+            }
+        },
+        {
+            "name": "Bootstrap",
+            "id": "bootstrap/1.x.x",
+            "layout": 4,
+            "img": 0,
+            "hidden": false,
+            "db_index": "bootstrap/1.x.x",
+
+            "filters": {
+                "sizes":["1024"]
+            }
+        },
+        {
+            "name": "Vanilla 4",
+            "id": "vanilla/4",
+            "layout": 5,
+            "img": 0,
+            "hidden": true,
+
+            "filters": {
+                "sizes":["1024"]
+            }
+        }
+    ],
+
+    "def": {
+        "s_tags": {
+            "soon": {
+                "label": "SOON",
+                "img": 0
+            },
+
+            "beta": {
+                "label": "BETA",
+                "img": 0
+            }
+        }
+    }
+}

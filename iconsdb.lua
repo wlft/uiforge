@@ -5,7 +5,7 @@ return {
     -- all icons are to be used in the Roblox engine and therefore require bleeding pixels, use chipng (https://rbxxaxa.github.io/chipng/) for this
 	icons = {
 		material_symbols = {
-			["4.0.0"] = {
+			["4.x.x"] = {
 				fill = {
 					["1024"] = {
 						
@@ -7426,12 +7426,36 @@ return {
 		};
         
         material_icons = {
-            fill = {
+            ["1"] = {
+                fill = {
                 
+                };
             };
         };
         
-        mui_icons = {};
+        mui_icons = {
+            ["1"] = {
+                fill = {
+
+                };
+            };
+        };
+
+        fluent = {
+            ["2"] = {
+                fill = {
+
+                };
+            };
+        };
+
+        Bootstrap = {
+            ["1.x.x"] = {
+                fill = {
+
+                };
+            };
+        };
 	};
 	
 	groups = {

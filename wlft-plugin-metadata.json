@@ -1,0 +1,13 @@
+{
+    "name":"UIForge",
+    "version":"1.0.1",
+    "status":"in-dev",
+    "sv":0.102,
+
+    "compatibility":{
+        "accents":false,
+        "cursors":"bultin",
+        "widget":"bultin",
+        "toolbar":"independent+referenced__not_required"
+    }
+}
