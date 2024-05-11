@@ -9,5 +9,9 @@
         "cursors":"bultin",
         "widget":"bultin",
         "toolbar":"independent+referenced__not_required"
+    },
+
+    "apis":{
+        "m":"https://raw.githubusercontent.com/wlft/uiforge/main/uiforge.json"
     }
 }
